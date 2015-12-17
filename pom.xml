@@ -4,10 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.damienfremont.blog</groupId>
 	<artifactId>20150730-test-cucumber_plugin_reporting</artifactId>
-	<repository>
-	    <id>repo.bodar.com</id>
-	    <url>http://repo.bodar.com</url>
-	</repository>
+	<repositories>
+		<repository>
+		    <id>repo.bodar.com</id>
+		    <url>http://repo.bodar.com</url>
+		</repository>
+	</repositories>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<dependencies>
